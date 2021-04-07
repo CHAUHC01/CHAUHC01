@@ -1,5 +1,7 @@
-[Connect](https://www.linkedin.com/in/chandraveersinghchauhan/) ### Hi there 👋, This is Chandraveer Singh(a.k.a CV).
-
+<p>
+<a href="https://www.linkedin.com/in/chandraveersinghchauhan/" rel="nofollow"> [Connect]
+</p>
+  
 <!--
 **CHAUHC01/CHAUHC01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
