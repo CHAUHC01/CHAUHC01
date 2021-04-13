@@ -5,9 +5,9 @@
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/cv_singh7/)
 [![Facebook](https://img.shields.io/badge/%20-Add-black?color=14171A&labelColor=d81b60&logo=facebook&logoColor=ffffff)](https://www.facebook.com/chandraveer/)
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=chauhc01"></a>
-:wave: Hi, I'm a Software Development Engineer who loves [Royal Enfield bikes](https://www.royalenfield.com/au/en/motorcycles/classic-models/classic-battle-green/), listening to [rajasthani folk music](https://www.youtube.com/watch?v=6nUCHw40j1o), [playing chess](https://ratings.fide.com/profile/5097401) and rifle shooting.
-- 🌱 I’m currently learning everything 🤣
-- 🥅 Important 2021 Goals: Learn REST API, REACT, DOCKER and contribute more to open source projects
+:wave: Hi, I'm a Software Development Engineer who loves [classic/cafe racer bikes](https://www.royalenfield.com/au/en/motorcycles/classic-models/classic-battle-green/), listening [rajasthani folk music](https://www.youtube.com/watch?v=6nUCHw40j1o), [playing chess](https://ratings.fide.com/profile/5097401) and rifle shooting.
+
+- 🥅 Important 2021 Goals: Learning and implementing REST API, REACT, DOCKER. Also intend to contribute more to open source projects
 
 <h2>My Technical Stack</h2>
 <table>
