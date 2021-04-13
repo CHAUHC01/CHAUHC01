@@ -5,9 +5,9 @@
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/cv_singh7/)
 [![Facebook](https://img.shields.io/badge/%20-Add-black?color=14171A&labelColor=d81b60&logo=facebook&logoColor=ffffff)](https://www.facebook.com/chandraveer/)
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=chauhc01"></a>
-:wave: Hi, I'm a Software Development Engineer, Chess player and a Rifle Shooter!!
+:wave: Hi, I'm a Software Development Engineer who loves cafe racer bikes, listening to rajasthani folk music, playing Chess and rifle shooting.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 Important 2021 Goals: Learn REST API, REACT, DOCKER and contribute more to Open Source projects
+- 🥅 Important 2021 Goals: Learn REST API, REACT, DOCKER and contribute more to open source projects
 
 <h2>My Technical Stack</h2>
 <table>
@@ -98,14 +98,6 @@
     <td align="center">
       <img alt="rest" height=64px src="https://cdn.worldvectorlogo.com/logos/rest.svg">
       <br>REST Framework
-    </td>
-    <td align="center">
-      <img alt="nginx" height=64px src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg">
-      <br>Nginx
-    </td>
-    <td align="center">
-      <img alt="aws" height=64px src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg">
-      <br>AWS
     </td>
     <td align="center">
       <img alt="kubernetes" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">
