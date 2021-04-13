@@ -7,7 +7,7 @@
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=chauhc01"></a>
 :wave: Hi, I'm a Software Development Engineer, Chess player and a Rifle Shooter!!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn REST API, REACT, DOCKER and contribute more to Open Source projects
+- 🥅 Important 2021 Goals: Learn REST API, REACT, DOCKER and contribute more to Open Source projects
 
 <h2>My Technical Stack</h2>
 <table>
@@ -18,7 +18,7 @@
     </td>
     <td align="center">
       <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
-      <br>Django Stack
+      <br>Django
     </td>
     <td align="center">
       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -40,6 +40,8 @@
       <img alt="css" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
       <br>CSS
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
       <br>PostgreSQL
@@ -49,12 +51,24 @@
       <br>MySQL
     </td>
     <td align="center">
+      <img alt="SQLite" height=64px src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg">
+      <br>SQLite
+    </td>
+    <td align="center">
       <img alt="bash" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
       <br>BASH
     </td>
     <td align="center">
       <img alt="docker" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
       <br>Docker
+    </td>
+    <td align="center">
+      <img alt="powerbi" height=64px src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg">
+      <br>PowerBI
+    </td>
+    <td align="center">
+      <img alt="VSCode" height=64px src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+      <br>VSCode
     </td>
   </tr>
 </table>
@@ -94,7 +108,7 @@
       <br>AWS
     </td>
     <td align="center">
-      <img alt="kubernetes" height=64px src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg">
+      <img alt="kubernetes" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">
       <br>Kubernetes
     </td>
   </tr>
