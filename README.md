@@ -116,4 +116,3 @@
 
 ## My Repos
 [![CHAUHC01](https://github-readme-stats.vercel.app/api/pin/?username=chauhc01&repo=CHAUHC01&show_owner=true)](https://github.com/CHAUHC01/CHAUHC01)
-[![django](https://github-readme-stats.vercel.app/api/pin/?username=chauhc01&repo=django&show_owner=true)](https://github.com/CHAUHC01/django)
