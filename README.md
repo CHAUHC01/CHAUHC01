@@ -7,7 +7,7 @@
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=chauhc01"></a>
 :wave: Hi, I'm a Software Development Engineer who loves [classic/cafe racer bikes](https://www.royalenfield.com/au/en/motorcycles/classic-models/classic-battle-green/), listening [rajasthani folk music](https://www.youtube.com/watch?v=6nUCHw40j1o), [playing chess](https://ratings.fide.com/profile/5097401) and rifle shooting.
 
-- 🥅 Important 2021 Goals: Learning and implementing REST API, REACT, DOCKER. Also intend to contribute more to open source projects
+- 🥅 Important Goals: Learning and implementing REST API, REACT, DOCKER. Also intend to contribute more to open source projects
 
 <h2>My Technical Stack</h2>
 <table>
@@ -72,7 +72,7 @@
     </td>
   </tr>
 </table>
-<h2>Up-Skilling this year (2021)</h2>
+<h2>Up-Skilling this year</h2>
 <table>
   <tr>
     <td align="center">
